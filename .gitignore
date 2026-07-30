@@ -1,0 +1,25 @@
+# Virtual environments
+v/
+venv/
+face-gesture-fusion/venv/
+face-gesture-fusion/venv_fusion/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+.gemini/
+.system_generated/
+app_data/
+brain/
+scratch/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

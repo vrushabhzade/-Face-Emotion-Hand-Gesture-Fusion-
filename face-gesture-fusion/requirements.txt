@@ -1,0 +1,5 @@
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+fer>=22.5.1
+numpy>=1.23.0
+tensorflow>=2.12.0
